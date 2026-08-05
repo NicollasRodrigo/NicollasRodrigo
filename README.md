@@ -161,7 +161,11 @@ Acredito que compartilhar conhecimento e receber orientações faz parte da evol
 * **Discord:** nicollas.rodrigo_56592
 
 ---
-
+---
+📄 Licença
+Este projeto está licenciado sob a Licença MIT.
+Consulte o arquivo LICENSE para mais informações.
+-----
 ## Obrigado pela visita! 🚀
 
 Se você chegou até aqui, agradeço por dedicar um tempo para conhecer meu repositório.
