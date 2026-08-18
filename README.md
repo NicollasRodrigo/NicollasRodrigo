@@ -182,24 +182,7 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 
 Procuro manter um padrão simples de organização em todos os repositórios, para facilitar meus estudos e também tornar a navegação mais clara para quem visitar meu perfil.
 
-```text
-nome-do-repositorio/
-│
-├── README.md
-├── docs/
-├── aulas/
-├── exercicios/
-├── projetos/
-└── assets/
-```
 
-Estrutura atual deste repositório:
-
-```text
-.
-├── LICENSE
-├── README.md
-```
 
 ---
 
@@ -236,6 +219,7 @@ Acredito que compartilhar conhecimento e receber orientações faz parte da evol
 * **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** https://github.com/NicollasRodrigo
 * **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** https://gitlab.com/NicollasRodrigo
 * **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** [nicollas.rodrigo_56592](https://discord.com/)
+* **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** https://www.linkedin.com/in/nicollas-rodrigo-251657423/
 ---
 ---
 📄 Licença
