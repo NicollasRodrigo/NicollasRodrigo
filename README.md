@@ -39,15 +39,15 @@ Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks,
 
 Ao longo do tempo, este repositório será atualizado com conteúdos relacionados aos meus estudos, como:
 
-*📖 Anotações   
+* 📖 Anotações   
 
-*📝 Exercícios   
+* 📝 Exercícios   
 
-*📚 Materiais de apoio
+* 📚 Materiais de apoio
 
-*💻 Exemplos de código desenvolvidos durante os estudos      
+* 💻 Exemplos de código desenvolvidos durante os estudos      
 
-*🚀 Conteúdos práticos conforme minha evolução
+* 🚀 Conteúdos práticos conforme minha evolução
 
 
 
@@ -218,7 +218,7 @@ Acredito que compartilhar conhecimento e receber orientações faz parte da evol
 
 * **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** https://github.com/NicollasRodrigo
 * **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** https://gitlab.com/NicollasRodrigo
-* **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** [nicollas.rodrigo_56592](https://discord.com/)
+* **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** [nicollas.rodrigo_56592]
 * **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** https://www.linkedin.com/in/nicollas-rodrigo-251657423/
 ---
 ---
