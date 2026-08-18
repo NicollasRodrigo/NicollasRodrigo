@@ -8,7 +8,7 @@ Criei este repositório para acompanhar minha evolução, manter meus estudos or
 
 ---
 
-#👨‍💻 Sobre Mim
+# 👨‍💻 Sobre Mim
 
 Meu nome é Nicollas Rodrigo, tenho 18 anos  e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
 
