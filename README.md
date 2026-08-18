@@ -1,4 +1,4 @@
-# 📚 Jornada de Estudos | Nicollas Rodrigo
+# 📚 Jornada de Estudos |  Nicollas Rodrigo
 
 Olá! Seja bem-vindo ao meu repositório. 
 
@@ -8,9 +8,9 @@ Criei este repositório para acompanhar minha evolução, manter meus estudos or
 
 ---
 
-# 👨‍💻 Sobre Mim
+#👨‍💻 Sobre Mim
 
-Meu nome é Nicollas Rodrigo e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
+Meu nome é Nicollas Rodrigo, tenho 18 anos  e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
 
 Tenho interesse em suporte e desenvolvimento de software e venho construindo meus conhecimentos por meio da graduação, cursos, estudos independentes e projetos práticos.
 
@@ -27,8 +27,8 @@ Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks,
 
 # 🎯 Objetivos
 
-* Organizar meus estudos em um único lugar.
-* Registrar minha evolução ao longo da graduação.
+* Organizar meus estudos em um único lugar.`
+*Registrar minha evolução ao longo da graduação.
 * Centralizar cursos, exercícios e materiais de apoio.
 * Consolidar os conhecimentos adquiridos por meio da prática.
 * Construir um histórico da minha jornada de aprendizado.
@@ -39,34 +39,112 @@ Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks,
 
 Ao longo do tempo, este repositório será atualizado com conteúdos relacionados aos meus estudos, como:
 
-* 📖 Anotações
-* 📝 Exercícios
-* 📚 Materiais de apoio
-* 💻 Exemplos de código desenvolvidos durante os estudos
-* 🚀 Conteúdos práticos conforme minha evolução
+*📖 Anotações   
+
+*📝 Exercícios   
+
+*📚 Materiais de apoio
+
+*💻 Exemplos de código desenvolvidos durante os estudos      
+
+*🚀 Conteúdos práticos conforme minha evolução
+
+
+
+
+
+
+
 
 ---
 
 # 📖 Áreas de estudo
 
 ## Atualmente estudando
+                            
+* <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
-* HTML5
-* CSS3
-* JavaScript
+* <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>  
+
+
+* <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
 ## Conhecimentos básicos
 
-* Lógica de Programação
-* Git
-* GitHub
-* Python
+## Conhecimentos
 
-## Próximos estudos
+* 🧠 Lógica de Programação
 
-* React
-* Node.js
-* SQL
+* <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+* <img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/github/white"
+/> 
+
+* <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+# Próximos estudos
+
+* <img 
+  alt="React" 
+  title="React" 
+  width="25px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+* <img 
+  alt="Node.js" 
+  title="Node.js" 
+  width="25px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+* <img 
+  alt="MySQL" 
+  title="MySQL" 
+  width="25px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
 ---
 
@@ -74,31 +152,30 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 
 | Tecnologia | Repositório | Status |
 |------------|-------------|--------|
-| HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | 🟡 Em andamento |
-| CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | 🟡 Em andamento |
-| JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript.git) | 🟡 Em andamento |
-| Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | 🟢 Noções básicas |
-| Git & GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | 🟢 Noções básicas |
-| Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | 🟢 Noções básicas |
-| React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | ⚪ Planejado |
-| Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | ⚪ Planejado |
-| SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | ⚪ Planejado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | 🟡 Em andamento |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | 🟡 Em andamento |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript.git) | 🟡 Em andamento |
+| 🧠 Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | 🟢 Noções básicas |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | 🟢 Noções básicas |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | 🟢 Noções básicas |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | ⚪ Planejado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | ⚪ Planejado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | ⚪ Planejado |
 ---
 
 # 🛣️ Roadmap de Aprendizado
 
-| Tecnologia            | Status                   |
-| --------------------- | ------------------------ |
-| Lógica de Programação | 🟢 Conhecimentos básicos |
-| HTML5                 | 🟡 Em andamento          |
-| CSS3                  | 🟡 Em andamento          |
-| JavaScript            | 🟡 Em andamento          |
-| Git e GitHub          | 🟢 Conhecimentos básicos |
-| Python                | 🟢 Conhecimentos básicos |
-| React                 | ⚪ Planejado              |
-| Node.js               | ⚪ Planejado              |
-| SQL                   | ⚪ Planejado              |
-
+| Tecnologia | Status |
+|------------|--------|
+| 🧠 Lógica de Programação | 🟢 Conhecimentos básicos |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML5 | 🟡 Em andamento |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS3 | 🟡 Em andamento |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | 🟡 Em andamento |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git e <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | 🟢 Conhecimentos básicos |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | 🟢 Conhecimentos básicos |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | ⚪ Planejado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | ⚪ Planejado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | ⚪ Planejado |
 ---
 
 # 📁 Organização dos Repositórios
@@ -126,7 +203,7 @@ Estrutura atual deste repositório:
 
 ---
 
-# 🧭 Como navegar
+#🧭 Como navegar
 
 Você pode explorar este repositório assim:
 
@@ -156,10 +233,9 @@ Acredito que compartilhar conhecimento e receber orientações faz parte da evol
 
 # 📬 Contato
 
-* **GitHub:** https://github.com/NicollasRodrigo
-* **GitLab:** https://gitlab.com/NicollasRodrigo
-* **Discord:** nicollas.rodrigo_56592
-
+* **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** https://github.com/NicollasRodrigo
+* **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** https://gitlab.com/NicollasRodrigo
+* **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** [nicollas.rodrigo_56592](https://discord.com/)
 ---
 ---
 📄 Licença
