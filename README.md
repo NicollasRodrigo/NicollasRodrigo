@@ -74,7 +74,7 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
   title="CSS" 
   width="25px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>     CSS
+/>   CSS
 
 * <img 
   alt="JavaScript" 
@@ -112,7 +112,7 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
         style="padding-right: 10px;" 
         src="https://cdn.simpleicons.org/github/181717"
     />
-  </picture>   GitHub
+  </picture> GitHub
   
 * <img 
     align="left" 
@@ -121,7 +121,7 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
     width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> Python
+/>Python
 # Próximos estudos
 
 * <img 
