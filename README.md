@@ -63,34 +63,25 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 ## Atualmente estudando
                             
 * <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+  alt="HTML" 
+  title="HTML" 
+  width="25px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>   HTML
 
 * <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>  
-
+  alt="CSS" 
+  title="CSS" 
+  width="25px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>     CSS
 
 * <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-## Conhecimentos básicos
+  alt="JavaScript" 
+  title="JavaScript" 
+  width="25px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>     JavaScript
 
 ## Conhecimentos
 
@@ -100,29 +91,37 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-* <img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/github/white"
-/> 
-
+/>   Git
+* <picture>
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://cdn.simpleicons.org/github/ffffff"
+    />
+    <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://cdn.simpleicons.org/github/181717"
+    />
+    <img 
+        align="left" 
+        alt="GitHub" 
+        title="GitHub"
+        width="25px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.simpleicons.org/github/181717"
+    />
+  </picture>   GitHub
+  
 * <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+/> Python
 # Próximos estudos
 
 * <img 
@@ -130,22 +129,21 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
   title="React" 
   width="25px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
+/> React
 
 * <img 
   alt="Node.js" 
   title="Node.js" 
   width="25px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
+/> Node.js
 
 * <img 
   alt="MySQL" 
   title="MySQL" 
   width="25px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
+/> MySQL
 ---
 
 # 📂 Repositórios
