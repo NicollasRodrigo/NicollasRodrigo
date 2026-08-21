@@ -83,35 +83,14 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />     JavaScript
 
-## Conhecimentos
+## Conhecimentos básicos 
 * 🧠 Lógica de Programação
-* <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>Git
-* <picture>
-    <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://cdn.simpleicons.org/github/ffffff"
+    srcset="https://cdn.simpleicons.org/github/ffffff"
     />
     <source 
         media="(prefers-color-scheme: light)" 
-        srcset="https://cdn.simpleicons.org/github/181717"
-    />
-    <img 
-        align="left" 
-        alt="GitHub" 
-        title="GitHub"
-        width="25px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.simpleicons.org/github/181717"
-    />
-  </picture>GitHub
-  
+        
+    
 * <img 
     align="left" 
     alt="Python" 
