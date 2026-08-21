@@ -1,16 +1,14 @@
-# 📚 Jornada de Estudos |  Nicollas Rodrigo
+# 📚 Jornada de Estudos | Nicollas Rodrigo
 
-Olá! Seja bem-vindo ao meu repositório. 
+Olá! Seja bem-vindo ao meu repositório.
 
 Este espaço reúne a minha jornada de aprendizado em programação. Aqui organizo os cursos que estou realizando, exercícios, anotações, materiais de apoio e, conforme eu avançar, também pretendo adicionar exemplos de código desenvolvidos durante os estudos.
 
 Criei este repositório para acompanhar minha evolução, manter meus estudos organizados e registrar, de forma simples e transparente, o que venho aprendendo ao longo da minha formação em tecnologia.
 
----
-
 # 👨‍💻 Sobre Mim
 
-Meu nome é Nicollas Rodrigo, tenho 18 anos  e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
+Meu nome é Nicollas Rodrigo, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
 
 Tenho interesse em suporte e desenvolvimento de software e venho construindo meus conhecimentos por meio da graduação, cursos, estudos independentes e projetos práticos.
 
@@ -22,121 +20,66 @@ Meu objetivo é iniciar minha carreira na área de tecnologia, aplicando meus co
 
 Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks, novas experiências e oportunidades que contribuam para meu aprendizado e crescimento profissional.
 
-
----
-
 # 🎯 Objetivos
 
-* Organizar meus estudos em um único lugar.`
-*Registrar minha evolução ao longo da graduação.
+* Organizar meus estudos em um único lugar.
+* Registrar minha evolução ao longo da graduação.
 * Centralizar cursos, exercícios e materiais de apoio.
 * Consolidar os conhecimentos adquiridos por meio da prática.
 * Construir um histórico da minha jornada de aprendizado.
-
----
 
 # 📚 O que você encontrará aqui
 
 Ao longo do tempo, este repositório será atualizado com conteúdos relacionados aos meus estudos, como:
 
-* 📖 Anotações   
-
-* 📝 Exercícios   
-
+* 📖 Anotações
+* 📝 Exercícios
 * 📚 Materiais de apoio
-
-* 💻 Exemplos de código desenvolvidos durante os estudos      
-
+* 💻 Exemplos de código desenvolvidos durante os estudos
 * 🚀 Conteúdos práticos conforme minha evolução
-
-
-
-
-
-
-
-
----
 
 # 📖 Áreas de estudo
 
 ## Atualmente estudando
-                            
-* <img 
-  alt="HTML" 
-  title="HTML" 
-  width="25px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>   HTML
 
-* <img 
-  alt="CSS" 
-  title="CSS" 
-  width="25px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>   CSS
+* <img alt="HTML" title="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML
 
-* <img 
-  alt="JavaScript" 
-  title="JavaScript" 
-  width="25px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>     JavaScript
+* <img alt="CSS" title="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS
 
-## Conhecimentos básicos 
+* <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+
+* <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
+
+## Conhecimentos básicos
+
 * 🧠 Lógica de Programação
-    srcset="https://cdn.simpleicons.org/github/ffffff"
-    />
-    <source 
-        media="(prefers-color-scheme: light)" 
-        
-    
-* <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>Python
-# Próximos estudos
 
-* <img 
-  alt="React" 
-  title="React" 
-  width="25px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/> React
+# 🚀 Próximos estudos
 
-* <img 
-  alt="Node.js" 
-  title="Node.js" 
-  width="25px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/> Node.js
+* <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
 
-* <img 
-  alt="MySQL" 
-  title="MySQL" 
-  width="25px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/> MySQL
----
+* <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
+
+* <img alt="React" title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React
+
+* <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
+
+* <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
 
 # 📂 Repositórios
+
 | Tecnologia | Repositório | Status |
 |------------|-------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat&labelColor=F7B93E" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | 🧠 Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 
-----
 # 🛣️ Roadmap de Aprendizado
 
 | Tecnologia | Status |
@@ -145,13 +88,11 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML5 | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS3 | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git e <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-
-
 
 # 📁 Organização dos Repositórios
 
@@ -177,6 +118,7 @@ Cada novo conteúdo representa mais uma etapa da minha jornada de aprendizado e 
 Se você tiver alguma sugestão, encontrar uma melhoria ou quiser compartilhar uma boa prática, ficarei feliz em receber seu feedback.
 
 Acredito que compartilhar conhecimento e receber orientações faz parte da evolução de qualquer desenvolvedor.
+
 # 📬 Contato
 
 * **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
