@@ -48,11 +48,10 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 
 * <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
 
-* <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
-
 ## Conhecimentos básicos
 
 * 🧠 Lógica de Programação
+* <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
 
 # 🚀 Próximos estudos
 
