@@ -2,21 +2,19 @@
 
 Olá! Seja bem-vindo ao meu repositório.
 
-Este espaço reúne a minha jornada de aprendizado em programação. Aqui organizo os cursos que estou realizando, exercícios, anotações, materiais de apoio e, conforme eu avançar, também pretendo adicionar exemplos de código desenvolvidos durante os estudos.
+Este espaço reúne a minha jornada de aprendizado em programação. Aqui organizo os cursos que estou realizando, exercícios, anotações, materiais de apoio e, conforme avanço, também adiciono exemplos de código desenvolvidos durante os estudos.
 
 Criei este repositório para acompanhar minha evolução, manter meus estudos organizados e registrar, de forma simples e transparente, o que venho aprendendo ao longo da minha formação em tecnologia.
 
 # 👨‍💻 Sobre Mim
 
-Meu nome é Nicollas Rodrigo, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
+Meu nome é Nicollas Rodrigo e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
 
 Tenho interesse em suporte e desenvolvimento de software e venho construindo meus conhecimentos por meio da graduação, cursos, estudos independentes e projetos práticos.
 
-Também possuo Transtorno do Espectro Autista (TEA – Nível 1 de suporte) e acredito que dedicação, organização e aprendizado contínuo são fundamentais para o meu crescimento profissional.
+Tenho inglês intermediário e conhecimentos básicos de espanhol e italiano, habilidades que contribuem para meu desenvolvimento e ampliam meu acesso a conteúdos técnicos.
 
-Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, habilidades que contribuem para meu desenvolvimento e ampliam meu acesso a conteúdos técnicos.
-
-Meu objetivo é iniciar minha carreira na área de tecnologia, aplicando meus conhecimentos, aprendendo com novos desafios e evoluindo constantemente como profissional.
+Meu objetivo é iniciar minha carreira na área de tecnologia, aplicando meus conhecimentos, contribuindo com a equipe, aprendendo com novos desafios e evoluindo constantemente como profissional.
 
 Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks, novas experiências e oportunidades que contribuam para meu aprendizado e crescimento profissional.
 
@@ -67,35 +65,43 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 
 # 📂 Repositórios
 
-| Tecnologia | Repositório | Status |
-|------------|-------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| 🧠 Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
+| Tecnologia                                                                                                                                                                             | Repositório                                                                               | Status                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML                                                                       | [estudos-html](https://github.com/NicollasRodrigo/estudos-html)                           | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS                                                                          | [estudos-css](https://github.com/NicollasRodrigo/estudos-css)                             | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript                                                       | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript)               | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| 🧠 Lógica de Programação                                                                                                                                                               | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos">     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python                                                                   | [estudos-python](https://github.com/NicollasRodrigo/estudos-python)                       | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github)               | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React                                                                      | [estudos-react](https://github.com/NicollasRodrigo/estudos-react)                         | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js                                                                  | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs)                       | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL                                                                        | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql)                             | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
 
 # 🛣️ Roadmap de Aprendizado
 
-| Tecnologia | Status |
-|------------|--------|
-| 🧠 Lógica de Programação | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML5 | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS3 | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
+| Tecnologia                                                                                                                                                                             | Status                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 🧠 Lógica de Programação                                                                                                                                                               | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos">     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML5                                                                      | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS3                                                                         | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript                                                       | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python                                                                   | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React                                                                      | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js                                                                  | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL / MySQL                                                                | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado">         |
 
 # 📁 Organização dos Repositórios
 
-Procuro manter um padrão simples de organização em todos os repositórios, para facilitar meus estudos e também tornar a navegação mais clara para quem visitar meu perfil.
+Procuro manter um padrão simples e consistente em todos os meus repositórios, facilitando a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
+
+Sempre que possível, organizo os repositórios com:
+
+* 📄 `README.md` com uma breve descrição do conteúdo.
+* 📚 Organização dos estudos por aulas, exercícios e conteúdos.
+* 💻 Códigos separados de acordo com o tema estudado.
+* 📂 Estrutura de pastas simples e organizada.
+* 📝 Anotações e materiais de apoio relacionados aos estudos.
 
 # 🧭 Como navegar
 
@@ -108,7 +114,7 @@ Você pode explorar este repositório assim:
 
 # 📈 Evolução
 
-Este repositório será atualizado conforme eu avançar nos estudos e desenvolver novos conhecimentos.
+Este repositório é atualizado conforme avanço nos estudos e desenvolvo novos conhecimentos.
 
 Cada novo conteúdo representa mais uma etapa da minha jornada de aprendizado e do meu crescimento como desenvolvedor.
 
@@ -135,4 +141,4 @@ Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 Se você chegou até aqui, agradeço por dedicar um tempo para conhecer meu repositório.
 
-Este espaço continuará sendo atualizado conforme eu evoluo nos estudos e desenvolvo novos conhecimentos.
+Este espaço continuará sendo atualizado conforme evoluo nos estudos e desenvolvo novos conhecimentos.
