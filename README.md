@@ -2,54 +2,56 @@
 
 Olá! Seja bem-vindo ao meu perfil.
 
-Este espaço reúne minha jornada de aprendizado em programação, com estudos, exercícios, anotações, materiais de apoio e projetos práticos desenvolvidos durante minha formação em tecnologia.
+Este espaço registra minha jornada de aprendizado em tecnologia, reunindo estudos, exercícios, anotações, materiais de apoio e projetos desenvolvidos ao longo da minha formação.
+
+Meu objetivo é manter meus estudos organizados, acompanhar minha evolução e transformar conhecimento teórico em prática por meio de projetos e experiências de desenvolvimento.
 
 # 👨‍💻 Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou em busca da minha primeira oportunidade na área de tecnologia.
 
-Tenho interesse em **desenvolvimento de software, front-end e suporte técnico**. Venho construindo minha base por meio da graduação, cursos, estudos independentes e projetos práticos, buscando transformar conhecimento teórico em experiência prática.
+Tenho interesse em **desenvolvimento de software, desenvolvimento front-end e suporte técnico**. Venho construindo minha base por meio da graduação, cursos, estudos independentes e desenvolvimento de projetos práticos.
 
-Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**.
+Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, ampliando meu acesso a conteúdos técnicos e oportunidades de aprendizado.
 
-Meu objetivo é iniciar minha carreira em tecnologia, contribuir com a equipe, aprender com novos desafios e evoluir continuamente como profissional.
+Meu objetivo profissional é iniciar minha carreira em tecnologia, aplicar meus conhecimentos em situações reais, colaborar com equipes e evoluir continuamente por meio de novos desafios.
 
 # 🎯 Objetivos
 
-* Organizar meus estudos em um único lugar.
-* Registrar minha evolução ao longo da graduação.
-* Consolidar conhecimentos por meio da prática.
-* Desenvolver projetos que demonstrem minha evolução técnica.
-* Construir uma base sólida para minha carreira em tecnologia.
+- Organizar meus estudos em um único espaço.
+- Registrar minha evolução ao longo da graduação.
+- Consolidar conhecimentos por meio da prática.
+- Desenvolver projetos que demonstrem meu aprendizado.
+- Construir uma base sólida para minha entrada no mercado de tecnologia.
 
 # 📚 O que você encontrará aqui
 
-* 📖 Anotações e materiais de estudo
-* 📝 Exercícios de programação
-* 💻 Exemplos de código
-* 🚀 Projetos práticos
-* 🧭 Roadmap dos próximos estudos
+- 📖 Anotações e materiais de estudo
+- 📝 Exercícios de programação
+- 💻 Exemplos de código
+- 🚀 Projetos práticos
+- 🧭 Roadmap dos próximos estudos
 
 # 📖 Áreas de Estudo
 
 ## 🧠 Fundamentos
 
-**Lógica de Programação** — base para desenvolvimento do raciocínio lógico, construção de algoritmos e resolução de problemas.
+**Lógica de Programação** — base para raciocínio lógico, construção de algoritmos e resolução de problemas.
 
 ## 💻 Atualmente estudando
 
-* <img alt="HTML" title="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML
-* <img alt="CSS" title="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS
-* <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
-* <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
+- <img alt="HTML" title="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML
+- <img alt="CSS" title="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS
+- <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+- <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
 
 ## 🚀 Próximos estudos
 
-* <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
-* <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
-* <img alt="React" title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React
-* <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
-* <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
+- <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
+- <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
+- <img alt="React" title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React
+- <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
+- <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
 
 # 📂 Repositórios de Estudo
 
@@ -89,48 +91,48 @@ Meu objetivo é iniciar minha carreira em tecnologia, contribuir com a equipe, a
 # 🚀 Projetos em Destaque
 
 ### 🎮 Jogo da Memória
-Projeto desenvolvido com **HTML, CSS e JavaScript**, com foco na prática de estruturação de páginas, estilização e lógica de interação.
+Projeto desenvolvido com **HTML, CSS e JavaScript** durante o curso CY3, com foco na prática de estrutura, estilização e lógica de interação.
 
 [Ver repositório](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria)
 
 ### 🧮 Calculator
-Aplicação desenvolvida com **React e Vite** para praticar componentes, eventos e construção de interfaces interativas.
+Aplicação desenvolvida com **React e Vite** para praticar componentes, eventos, lógica de interface e organização de um projeto front-end.
 
 [Ver repositório](https://github.com/NicollasRodrigo/calculator)
 
 ### ✅ Quest Todo
-Aplicação desenvolvida com **React e Vite** para praticar organização de componentes, interação com a interface e gerenciamento de tarefas.
+Aplicação desenvolvida com **React e Vite** para praticar construção de interfaces, organização de componentes e gerenciamento de tarefas.
 
 [Ver repositório](https://github.com/NicollasRodrigo/Quest-Todo)
 
 ### 💼 Portfólio
-Portfólio pessoal desenvolvido em **React**, estruturado em componentes para apresentar projetos, experiências e conhecimentos.
+Portfólio pessoal desenvolvido em **React**, estruturado em componentes para apresentar projetos, conhecimentos e informações profissionais.
 
 [Ver repositório](https://github.com/NicollasRodrigo/portfolio_atualizado)
 
 # 📁 Organização dos Repositórios
 
-Procuro manter uma organização simples e consistente, facilitando a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
+Mantenho uma organização simples e consistente para facilitar a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
 
-Sempre que possível, os estudos são estruturados com:
+Sempre que possível, os repositórios seguem princípios como:
 
-* 📄 `README.md` para contextualizar cada repositório.
-* 📚 Separação entre aulas, exercícios e projetos.
-* 💻 Código organizado de acordo com o tema estudado.
-* 📂 Estrutura de pastas objetiva e fácil de navegar.
-* 📝 Anotações e materiais de apoio relacionados aos conteúdos.
+- 📄 `README.md` com uma descrição objetiva do conteúdo.
+- 📚 Estudos separados por aulas, exercícios e projetos.
+- 💻 Código organizado de acordo com o tema ou funcionalidade.
+- 📂 Estrutura de pastas simples e fácil de navegar.
+- 📝 Anotações e materiais de apoio relacionados aos estudos.
 
 # 🧭 Como navegar
 
 1. Consulte os **Repositórios de Estudo** para acompanhar minha formação.
 2. Acesse os **Projetos em Destaque** para conhecer aplicações práticas.
-3. Use o **Roadmap** para acompanhar os próximos passos da minha aprendizagem.
+3. Consulte o **Roadmap** para acompanhar os próximos passos da minha aprendizagem.
 
 # 📈 Evolução
 
 Este perfil é atualizado conforme avanço nos estudos e desenvolvo novos projetos.
 
-Cada repositório representa uma etapa da minha formação e contribui para a construção gradual da minha experiência prática.
+A proposta é registrar não apenas o que estou estudando, mas também como transformo esses conhecimentos em prática ao longo da minha formação.
 
 # 🤝 Feedbacks
 
@@ -138,10 +140,10 @@ Sugestões, boas práticas e feedbacks são bem-vindos e fazem parte do meu proc
 
 # 📬 Contato
 
-* **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
-* **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
-* **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** `nicollas.rodrigo_56592`
-* **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
+- **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
+- **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
+- **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** `nicollas.rodrigo_56592`
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
 
 # 📄 Licença
 
