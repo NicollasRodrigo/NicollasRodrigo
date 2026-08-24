@@ -28,8 +28,6 @@ Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks,
 
 # 📚 O que você encontrará aqui
 
-Este repositório reúne conteúdos relacionados aos meus estudos, como:
-
 * 📖 Anotações
 * 📝 Exercícios
 * 📚 Materiais de apoio
@@ -41,27 +39,20 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 ## Atualmente estudando
 
 * <img alt="HTML" title="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML
-
 * <img alt="CSS" title="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS
-
 * <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
-
 * <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
 
-## Fundamentos
+## Base de conhecimento
 
-* 🧠 Lógica de Programação
+🧠 **Lógica de Programação** — fundamento aplicado aos estudos de programação.
 
-# 🚀 Próximos estudos
+## Próximos estudos
 
 * <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
-
 * <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
-
 * <img alt="React" title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React
-
 * <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
-
 * <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
 
 # 📂 Repositórios de Estudo
@@ -71,8 +62,8 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| 🧠 Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
+| 🧠 Lógica de Programação | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | <img src="https://img.shields.io/badge/Fundamentos-2EA44F?style=flat" alt="Fundamentos"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
