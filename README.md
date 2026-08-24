@@ -2,15 +2,15 @@
 
 Olá! Seja bem-vindo ao meu repositório.
 
-Este espaço reúne minha jornada de aprendizado em programação. Aqui organizo cursos, exercícios, anotações, materiais de apoio e exemplos de código desenvolvidos durante meus estudos.
+Este espaço reúne minha jornada de aprendizado em programação. Aqui organizo cursos, exercícios, anotações, materiais de apoio e projetos desenvolvidos durante meus estudos.
 
 Criei este repositório para acompanhar minha evolução, manter meus estudos organizados e registrar, de forma simples e transparente, os conhecimentos que venho adquirindo ao longo da minha formação em tecnologia.
 
 # 👨‍💻 Sobre Mim
 
-Meu nome é Nicollas Rodrigo e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca da minha primeira oportunidade na área de tecnologia.
+Meu nome é Nicollas Rodrigo e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, em busca da minha primeira oportunidade na área de tecnologia.
 
-Tenho interesse em suporte e desenvolvimento de software e venho construindo meus conhecimentos por meio da graduação, cursos, estudos independentes e projetos práticos.
+Tenho interesse em **desenvolvimento de software, front-end e suporte técnico** e venho construindo meus conhecimentos por meio da graduação, cursos, estudos independentes e projetos práticos.
 
 Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, habilidades que contribuem para meu desenvolvimento e ampliam meu acesso a conteúdos técnicos.
 
@@ -33,8 +33,8 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 * 📖 Anotações
 * 📝 Exercícios
 * 📚 Materiais de apoio
-* 💻 Exemplos de código desenvolvidos durante os estudos
-* 🚀 Conteúdos práticos conforme minha evolução
+* 💻 Exemplos de código
+* 🚀 Projetos práticos
 
 # 📖 Áreas de estudo
 
@@ -48,7 +48,7 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 
 * <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
 
-## Conhecimentos básicos
+## Fundamentos
 
 * 🧠 Lógica de Programação
 
@@ -64,7 +64,7 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 
 * <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
 
-# 📂 Repositórios
+# 📂 Repositórios de Estudo
 
 | Tecnologia | Repositório | Status |
 |------------|-------------|--------|
@@ -76,7 +76,7 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL / MySQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 
 # 🛣️ Roadmap de Aprendizado
 
@@ -101,11 +101,29 @@ Este repositório reúne conteúdos relacionados aos meus estudos, como:
 
 # 🚀 Projetos em Destaque
 
-* 🎮 [Jogo da Memória](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria) — Projeto desenvolvido com HTML, CSS e JavaScript durante o curso CY3.
+### 🎮 Jogo da Memória
+Projeto desenvolvido com **HTML, CSS e JavaScript** durante o curso CY3.
+
+[Ver repositório](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria)
+
+### 🧮 Calculator
+Aplicação desenvolvida em **React + Vite** para praticar componentes, eventos e lógica de interface.
+
+[Ver repositório](https://github.com/NicollasRodrigo/calculator)
+
+### ✅ Quest Todo
+Projeto em **React + Vite** voltado para prática de interface e organização de tarefas, incluindo uma área de testes.
+
+[Ver repositório](https://github.com/NicollasRodrigo/Quest-Todo)
+
+### 💼 Portfólio
+Portfólio pessoal desenvolvido em **React**, organizado por componentes para apresentar projetos, experiências e conhecimentos.
+
+[Ver repositório](https://github.com/NicollasRodrigo/portfolio_atualizado)
 
 # 📁 Organização dos Repositórios
 
-Procuro manter um padrão simples e consistente em todos os meus repositórios, facilitando a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
+Procuro manter um padrão simples e consistente em meus repositórios, facilitando a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
 
 Sempre que possível, organizo os repositórios com:
 
@@ -117,16 +135,15 @@ Sempre que possível, organizo os repositórios com:
 
 # 🧭 Como navegar
 
-Você pode explorar este repositório assim:
+Você pode explorar este perfil assim:
 
-1. Escolha uma tecnologia na tabela de repositórios.
-2. Acesse o repositório correspondente.
-3. Consulte o guia, as aulas e as anotações.
-4. Acompanhe minha evolução conforme novos conteúdos forem adicionados.
+1. Consulte os **Repositórios de Estudo** para acompanhar minha formação.
+2. Acesse os **Projetos em Destaque** para conhecer aplicações práticas.
+3. Use o **Roadmap** para acompanhar os próximos passos da minha aprendizagem.
 
 # 📈 Evolução
 
-Este repositório é atualizado conforme avanço nos estudos e desenvolvo novos conhecimentos.
+Este perfil é atualizado conforme avanço nos estudos e desenvolvo novos conhecimentos.
 
 Cada novo conteúdo representa mais uma etapa da minha jornada de aprendizado e do meu crescimento como desenvolvedor.
 
@@ -151,6 +168,6 @@ Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ## Obrigado pela visita! 🚀
 
-Se você chegou até aqui, agradeço por dedicar um tempo para conhecer meu repositório.
+Se você chegou até aqui, agradeço por dedicar um tempo para conhecer meu perfil.
 
 Este espaço continuará sendo atualizado conforme evoluo nos estudos e desenvolvo novos conhecimentos.
