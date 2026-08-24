@@ -6,11 +6,13 @@ Meu objetivo é transformar conhecimento em prática, desenvolver uma base sóli
 
 # 👨‍💻 Sobre Mim
 
-Tenho interesse em **desenvolvimento de software, desenvolvimento front-end e suporte técnico**. Atualmente, concentro meus estudos em fundamentos de programação, desenvolvimento web e construção de projetos práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse em **desenvolvimento de software, desenvolvimento front-end e suporte técnico**.
 
-Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, que contribuem para meu acesso a conteúdos técnicos e oportunidades de aprendizado.
+Atualmente, concentro meus estudos em **desenvolvimento web, JavaScript, Python e fundamentos de programação**, aplicando esses conhecimentos em exercícios e projetos práticos.
 
-Estou em busca de uma oportunidade de entrada na área de tecnologia, onde possa aplicar meus conhecimentos, colaborar com a equipe e continuar evoluindo profissionalmente.
+Estou em busca da minha primeira oportunidade na área de tecnologia, onde possa contribuir, aprender com novos desafios e continuar desenvolvendo minhas habilidades profissionais.
+
+Também possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, que ampliam meu acesso a conteúdos técnicos e oportunidades de aprendizado.
 
 # 🚀 Projetos em Destaque
 
