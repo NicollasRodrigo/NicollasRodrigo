@@ -1,156 +1,133 @@
-# 📚 Jornada de Estudos | Nicollas Rodrigo
+# 👨‍💻 Nicollas Rodrigo
 
-Olá! Seja bem-vindo ao meu perfil.
+### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento de Software | Front-end
 
-Este espaço reúne minha jornada de aprendizado em programação, com estudos, exercícios, anotações, materiais de apoio e projetos práticos desenvolvidos durante minha formação em tecnologia.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo minha carreira na área de tecnologia por meio da graduação, estudos independentes e projetos práticos.
 
-# 👨‍💻 Sobre Mim
+Tenho interesse em **desenvolvimento de software, front-end e suporte técnico**. Meu foco atual é fortalecer fundamentos, consolidar conhecimentos e transformar o aprendizado em projetos cada vez mais completos.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou em busca da minha primeira oportunidade na área de tecnologia.
+📍 **Localização:** Brasil  
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
+🌎 **Idiomas:** Inglês intermediário • Espanhol básico • Italiano básico  
+🎯 **Objetivo:** primeira oportunidade na área de tecnologia
 
-Tenho interesse em **desenvolvimento de software, front-end e suporte técnico**. Venho construindo minha base por meio da graduação, cursos, estudos independentes e projetos práticos.
-
-Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**.
-
-Meu objetivo é iniciar minha carreira em tecnologia, aplicar meus conhecimentos em situações reais, aprender com novos desafios e evoluir continuamente como profissional.
-
-# 🎯 Objetivos
-
-- Organizar meus estudos em um único lugar.
-- Registrar minha evolução ao longo da graduação.
-- Consolidar conhecimentos por meio da prática.
-- Desenvolver projetos para transformar teoria em experiência.
-- Construir um histórico da minha evolução na área de tecnologia.
-
-# 📚 O que você encontrará aqui
-
-- 📖 Anotações e materiais de estudo
-- 📝 Exercícios de programação
-- 💻 Exemplos de código
-- 🚀 Projetos práticos
-- 🧭 Roadmap dos próximos estudos
-
-# 📖 Áreas de Estudo
+---
 
 ## 🧠 Fundamentos
 
-**Lógica de Programação** — base utilizada para desenvolver raciocínio lógico, algoritmos e resolução de problemas.
+**Lógica de Programação** — base para raciocínio lógico, algoritmos e resolução de problemas.
+
+📁 [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao)
 
 ## 💻 Atualmente estudando
 
-- <img alt="HTML" title="HTML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML
-- <img alt="CSS" title="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS
-- <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
-- <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
+<p>
+  <img alt="HTML5" title="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</p>
+
+**HTML • CSS • JavaScript • Python**
 
 ## 🚀 Próximos estudos
 
-- <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
-- <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
-- <img alt="React" title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React
-- <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
-- <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
+**Git • GitHub • React • Node.js • MySQL**
 
-# 📂 Repositórios de Estudo
+---
+
+## 📂 Repositórios de Estudo
 
 | Área | Repositório | Status |
 |------|-------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| 🧠 Fundamentos | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | <img src="https://img.shields.io/badge/Base-2EA44F?style=flat" alt="Base"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL / MySQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
+| 🌐 HTML | [estudos-html](https://github.com/NicollasRodrigo/estudos-html) | 🟡 Em andamento |
+| 🎨 CSS | [estudos-css](https://github.com/NicollasRodrigo/estudos-css) | 🟡 Em andamento |
+| 🟨 JavaScript | [estudos-javascript](https://github.com/NicollasRodrigo/estudos-javascript) | 🟡 Em andamento |
+| 🐍 Python | [estudos-python](https://github.com/NicollasRodrigo/estudos-python) | 🟡 Em andamento |
+| 🧠 Fundamentos | [estudo-logica-programacao](https://github.com/NicollasRodrigo/estudo-logica-programacao) | 🟢 Base |
+| 🔧 Git & GitHub | [estudos-git-github](https://github.com/NicollasRodrigo/estudos-git-github) | ⚪ Planejado |
+| ⚛️ React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | ⚪ Planejado |
+| 🟢 Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | ⚪ Planejado |
+| 🗄️ SQL / MySQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | ⚪ Planejado |
 
-# 🛣️ Roadmap de Aprendizado
+---
+
+## 🛣️ Roadmap
 
 | Etapa | Status |
 |-------|--------|
-| 🧠 Fundamentos de Programação | <img src="https://img.shields.io/badge/Base-2EA44F?style=flat" alt="Base"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px"> HTML5 | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px"> CSS3 | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px"> JavaScript | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20px"> Python | <img src="https://img.shields.io/badge/Em%20andamento-F7B93E?style=flat" alt="Em andamento"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px"> Git & <img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL / MySQL | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
+| 🧠 Fundamentos de Programação | 🟢 Base |
+| 🌐 HTML5 | 🟡 Em andamento |
+| 🎨 CSS3 | 🟡 Em andamento |
+| 🟨 JavaScript | 🟡 Em andamento |
+| 🐍 Python | 🟡 Em andamento |
+| 🔧 Git & GitHub | ⚪ Planejado |
+| ⚛️ React | ⚪ Planejado |
+| 🟢 Node.js | ⚪ Planejado |
+| 🗄️ MySQL | ⚪ Planejado |
 
-# 📊 Estatísticas do GitHub
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎮 Jogo da Memória
+Projeto desenvolvido com **HTML, CSS e JavaScript** durante o curso CY3.
+
+[Ver repositório →](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria)
+
+### 🧮 Calculator
+Aplicação desenvolvida com **React + Vite** para praticar componentes, eventos e lógica de interface.
+
+[Ver repositório →](https://github.com/NicollasRodrigo/calculator)
+
+### ✅ Quest Todo
+Aplicação desenvolvida com **React + Vite**, voltada à prática de interface, organização de tarefas e testes.
+
+[Ver repositório →](https://github.com/NicollasRodrigo/Quest-Todo)
+
+### 💼 Portfólio
+Portfólio pessoal desenvolvido em **React**, estruturado por componentes para apresentar projetos, experiências e conhecimentos.
+
+[Ver repositório →](https://github.com/NicollasRodrigo/portfolio_atualizado)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="48%" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
   <img width="48%" src="./profile/top-langs.svg" alt="Principais linguagens"/>
 </p>
 
-# 🚀 Projetos em Destaque
+---
 
-### 🎮 Jogo da Memória
-Projeto desenvolvido com **HTML, CSS e JavaScript** durante o curso CY3.
+## 📁 Organização
 
-[Ver repositório](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria)
+Mantenho meus repositórios com uma estrutura simples e consistente, buscando facilitar a navegação e registrar minha evolução.
 
-### 🧮 Calculator
-Aplicação desenvolvida em **React + Vite** para praticar componentes, eventos e lógica de interface.
+- 📄 README.md com objetivo e contexto do repositório
+- 📚 Estudos separados por aulas, exercícios e projetos
+- 💻 Código organizado por tema ou funcionalidade
+- 📂 Estrutura de pastas objetiva
+- 📝 Anotações e materiais de apoio quando necessários
 
-[Ver repositório](https://github.com/NicollasRodrigo/calculator)
+---
 
-### ✅ Quest Todo
-Projeto em **React + Vite** voltado para prática de interface e organização de tarefas, incluindo uma área de testes.
+## 📈 Evolução
 
-[Ver repositório](https://github.com/NicollasRodrigo/Quest-Todo)
+Este perfil acompanha minha evolução acadêmica e prática na área de tecnologia. Os repositórios são atualizados conforme avanço nos estudos e desenvolvo novos projetos.
 
-### 💼 Portfólio
-Portfólio pessoal desenvolvido em **React**, organizado por componentes para apresentar projetos, experiências e conhecimentos.
+---
 
-[Ver repositório](https://github.com/NicollasRodrigo/portfolio_atualizado)
-
-# 📁 Organização dos Repositórios
-
-Procuro manter um padrão simples e consistente em meus repositórios, facilitando a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
-
-Sempre que possível, organizo os repositórios com:
-
-- 📄 `README.md` com uma breve descrição do conteúdo.
-- 📚 Estudos separados por aulas, exercícios e conteúdos.
-- 💻 Código organizado de acordo com o tema estudado.
-- 📂 Estrutura de pastas simples e objetiva.
-- 📝 Anotações e materiais de apoio relacionados aos estudos.
-
-# 🧭 Como navegar
-
-1. Consulte os **Repositórios de Estudo** para acompanhar minha formação.
-2. Acesse os **Projetos em Destaque** para conhecer aplicações práticas.
-3. Use o **Roadmap** para acompanhar os próximos passos da minha aprendizagem.
-
-# 📈 Evolução
-
-Este perfil é atualizado conforme avanço nos estudos e desenvolvo novos conhecimentos.
-
-Cada novo conteúdo representa mais uma etapa da minha jornada de aprendizado e do meu crescimento como desenvolvedor.
-
-# 🤝 Feedbacks
-
-Sugestões, boas práticas e feedbacks são bem-vindos e fazem parte da minha evolução como profissional.
-
-# 📬 Contato
+## 📬 Contato
 
 - **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
 - **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
 - **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** `nicollas.rodrigo_56592`
 - **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
 
-# 📄 Licença
-
-Este repositório está licenciado sob a **Licença MIT**.
-
-Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
 ---
 
-## Obrigado pela visita! 🚀
+## 👋 Obrigado pela visita!
 
-Este espaço continuará sendo atualizado conforme avanço nos estudos e desenvolvo novos conhecimentos.
+Este perfil continuará sendo atualizado conforme avanço nos estudos e desenvolvo novos conhecimentos.
