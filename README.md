@@ -2,9 +2,9 @@
 
 Olá! Seja bem-vindo ao meu repositório.
 
-Este espaço reúne a minha jornada de aprendizado em programação. Aqui organizo os cursos que estou realizando, exercícios, anotações, materiais de apoio e, conforme avanço, também adiciono exemplos de código desenvolvidos durante os estudos.
+Este espaço reúne minha jornada de aprendizado em programação. Aqui organizo cursos, exercícios, anotações, materiais de apoio e exemplos de código desenvolvidos durante meus estudos.
 
-Criei este repositório para acompanhar minha evolução, manter meus estudos organizados e registrar, de forma simples e transparente, o que venho aprendendo ao longo da minha formação em tecnologia.
+Criei este repositório para acompanhar minha evolução, manter meus estudos organizados e registrar, de forma simples e transparente, os conhecimentos que venho adquirindo ao longo da minha formação em tecnologia.
 
 # 👨‍💻 Sobre Mim
 
@@ -12,7 +12,7 @@ Meu nome é Nicollas Rodrigo e sou estudante de Análise e Desenvolvimento de Si
 
 Tenho interesse em suporte e desenvolvimento de software e venho construindo meus conhecimentos por meio da graduação, cursos, estudos independentes e projetos práticos.
 
-Tenho inglês intermediário e conhecimentos básicos de espanhol e italiano, habilidades que contribuem para meu desenvolvimento e ampliam meu acesso a conteúdos técnicos.
+Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, habilidades que contribuem para meu desenvolvimento e ampliam meu acesso a conteúdos técnicos.
 
 Meu objetivo é iniciar minha carreira na área de tecnologia, aplicando meus conhecimentos, contribuindo com a equipe, aprendendo com novos desafios e evoluindo constantemente como profissional.
 
@@ -28,7 +28,7 @@ Acredito que ninguém evolui sozinho. Por isso, estou sempre aberto a feedbacks,
 
 # 📚 O que você encontrará aqui
 
-Ao longo do tempo, este repositório será atualizado com conteúdos relacionados aos meus estudos, como:
+Este repositório reúne conteúdos relacionados aos meus estudos, como:
 
 * 📖 Anotações
 * 📝 Exercícios
@@ -46,10 +46,11 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 
 * <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
 
+* <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
+
 ## Conhecimentos básicos
 
 * 🧠 Lógica de Programação
-* <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
 
 # 🚀 Próximos estudos
 
@@ -94,9 +95,13 @@ Ao longo do tempo, este repositório será atualizado com conteúdos relacionado
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="./profile/top-langs.svg" alt="Principais linguagens"/>
+  <img width="48%" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
+  <img width="48%" src="./profile/top-langs.svg" alt="Principais linguagens"/>
 </p>
+
+# 🚀 Projetos em Destaque
+
+* 🎮 [Jogo da Memória](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria) — Projeto desenvolvido com HTML, CSS e JavaScript durante o curso CY3.
 
 # 📁 Organização dos Repositórios
 
