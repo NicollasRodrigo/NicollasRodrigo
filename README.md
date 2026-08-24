@@ -1,42 +1,29 @@
 # 📚 Jornada de Estudos | Nicollas Rodrigo
 
-Olá! Seja bem-vindo ao meu perfil.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo minha base em tecnologia por meio da graduação, estudos independentes e projetos práticos.
 
-Este espaço registra minha jornada de aprendizado em tecnologia, reunindo estudos, exercícios, anotações, materiais de apoio e projetos desenvolvidos ao longo da minha formação.
-
-Meu objetivo é manter meus estudos organizados, acompanhar minha evolução e transformar conhecimento teórico em prática por meio de projetos e experiências de desenvolvimento.
+Meu objetivo é transformar conhecimento em prática, desenvolver uma base sólida em programação e conquistar minha primeira oportunidade na área de tecnologia.
 
 # 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou em busca da minha primeira oportunidade na área de tecnologia.
+Tenho interesse em **desenvolvimento de software, desenvolvimento front-end e suporte técnico**. Atualmente, concentro meus estudos em fundamentos de programação, desenvolvimento web e construção de projetos práticos.
 
-Tenho interesse em **desenvolvimento de software, desenvolvimento front-end e suporte técnico**. Venho construindo minha base por meio da graduação, cursos, estudos independentes e desenvolvimento de projetos práticos.
+Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, que contribuem para meu acesso a conteúdos técnicos e oportunidades de aprendizado.
 
-Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, ampliando meu acesso a conteúdos técnicos e oportunidades de aprendizado.
+Estou em busca de uma oportunidade de entrada na área de tecnologia, onde possa aplicar meus conhecimentos, colaborar com a equipe e continuar evoluindo profissionalmente.
 
-Meu objetivo profissional é iniciar minha carreira em tecnologia, aplicar meus conhecimentos em situações reais, colaborar com equipes e evoluir continuamente por meio de novos desafios.
+# 🚀 Projetos em Destaque
 
-# 🎯 Objetivos
+| Projeto | Tecnologias | Objetivo |
+|---------|-------------|----------|
+| 🎮 [Jogo da Memória](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria) | HTML • CSS • JavaScript | Prática de estrutura, estilização e lógica de interação. |
+| 🧮 [Calculator](https://github.com/NicollasRodrigo/calculator) | React • Vite • JavaScript | Prática de componentes, eventos e lógica de interface. |
+| ✅ [Quest Todo](https://github.com/NicollasRodrigo/Quest-Todo) | React • Vite • JavaScript | Prática de interfaces e organização de tarefas. |
+| 💼 [Portfólio](https://github.com/NicollasRodrigo/portfolio_atualizado) | React • Tailwind CSS | Apresentação de projetos, conhecimentos e informações profissionais. |
 
-- Organizar meus estudos em um único espaço.
-- Registrar minha evolução ao longo da graduação.
-- Consolidar conhecimentos por meio da prática.
-- Desenvolver projetos que demonstrem meu aprendizado.
-- Construir uma base sólida para minha entrada no mercado de tecnologia.
-
-# 📚 O que você encontrará aqui
-
-- 📖 Anotações e materiais de estudo
-- 📝 Exercícios de programação
-- 💻 Exemplos de código
-- 🚀 Projetos práticos
-- 🧭 Roadmap dos próximos estudos
+> 📌 Estes são os projetos que melhor representam minha evolução prática até o momento.
 
 # 📖 Áreas de Estudo
-
-## 🧠 Fundamentos
-
-**Lógica de Programação** 
 
 ## 💻 Atualmente estudando
 
@@ -44,6 +31,10 @@ Meu objetivo profissional é iniciar minha carreira em tecnologia, aplicar meus 
 - <img alt="CSS" title="CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS
 - <img alt="JavaScript" title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
 - <img alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
+
+## 🧠 Base de conhecimento
+
+**Lógica de Programação** — fundamentos de raciocínio lógico, algoritmos e resolução de problemas.
 
 ## 🚀 Próximos estudos
 
@@ -88,51 +79,19 @@ Meu objetivo profissional é iniciar minha carreira em tecnologia, aplicar meus 
   <img width="48%" src="./profile/top-langs.svg" alt="Principais linguagens"/>
 </p>
 
-# 🚀 Projetos em Destaque
-
-### 🎮 Jogo da Memória
-Projeto desenvolvido com **HTML, CSS e JavaScript** durante o curso CY3, com foco na prática de estrutura, estilização e lógica de interação.
-
-[Ver repositório](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria)
-
-### 🧮 Calculator
-Aplicação desenvolvida com **React e Vite** para praticar componentes, eventos, lógica de interface e organização de um projeto front-end.
-
-[Ver repositório](https://github.com/NicollasRodrigo/calculator)
-
-### ✅ Quest Todo
-Aplicação desenvolvida com **React e Vite** para praticar construção de interfaces, organização de componentes e gerenciamento de tarefas.
-
-[Ver repositório](https://github.com/NicollasRodrigo/Quest-Todo)
-
-### 💼 Portfólio
-Portfólio pessoal desenvolvido em **React**, estruturado em componentes para apresentar projetos, conhecimentos e informações profissionais.
-
-[Ver repositório](https://github.com/NicollasRodrigo/portfolio_atualizado)
-
 # 📁 Organização dos Repositórios
 
-Mantenho uma organização simples e consistente para facilitar a navegação, a consulta dos conteúdos e o acompanhamento da minha evolução.
+Mantenho uma organização simples e consistente para facilitar a navegação e acompanhar minha evolução.
 
-Sempre que possível, os repositórios seguem princípios como:
-
-- 📄 `README.md` com uma descrição objetiva do conteúdo.
+- 📄 `README.md` com descrição objetiva do conteúdo.
 - 📚 Estudos separados por aulas, exercícios e projetos.
-- 💻 Código organizado de acordo com o tema ou funcionalidade.
+- 💻 Código organizado por tema ou funcionalidade.
 - 📂 Estrutura de pastas simples e fácil de navegar.
 - 📝 Anotações e materiais de apoio relacionados aos estudos.
 
-# 🧭 Como navegar
-
-1. Consulte os **Repositórios de Estudo** para acompanhar minha formação.
-2. Acesse os **Projetos em Destaque** para conhecer aplicações práticas.
-3. Consulte o **Roadmap** para acompanhar os próximos passos da minha aprendizagem.
-
 # 📈 Evolução
 
-Este perfil é atualizado conforme avanço nos estudos e desenvolvo novos projetos.
-
-A proposta é registrar não apenas o que estou estudando, mas também como transformo esses conhecimentos em prática ao longo da minha formação.
+Este perfil é atualizado conforme avanço nos estudos e desenvolvo novos projetos. A proposta é registrar não apenas o que estou aprendendo, mas também como transformo esses conhecimentos em prática ao longo da minha formação.
 
 # 🤝 Feedbacks
 
