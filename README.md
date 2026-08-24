@@ -36,7 +36,7 @@ Meu objetivo profissional é iniciar minha carreira em tecnologia, aplicar meus 
 
 ## 🧠 Fundamentos
 
-**Lógica de Programação** — base para raciocínio lógico, construção de algoritmos e resolução de problemas.
+**Lógica de Programação** 
 
 ## 💻 Atualmente estudando
 
