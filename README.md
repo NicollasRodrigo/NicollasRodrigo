@@ -105,7 +105,6 @@ Sugestões, boas práticas e feedbacks são bem-vindos e fazem parte do meu proc
 
 - **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
 - **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
-- **<img src="https://cdn.simpleicons.org/discord/white" width="20px"> Discord:** `nicollas.rodrigo_56592`
 - **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
 
 # 📄 Licença
