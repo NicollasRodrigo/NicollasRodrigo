@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo minha
 
 Meu objetivo é transformar conhecimento em prática, desenvolver uma base sólida em programação e conquistar minha primeira oportunidade na área de tecnologia.
 
-
+---
 
 # 👨‍💻 Sobre Mim
 
@@ -16,6 +16,8 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa aplicar
 
 Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, que complementam minha formação e ampliam meu acesso a conteúdos técnicos.
 
+---
+
 # 🚀 Projetos em Destaque
 
 | Projeto | Tecnologias | Objetivo |
@@ -26,6 +28,8 @@ Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e itali
 | 💼 [Portfólio](https://github.com/NicollasRodrigo/portfolio_atualizado) | React • Tailwind CSS | Apresentação de projetos, conhecimentos e informações profissionais. |
 
 > 📌 Estes são os projetos que melhor representam minha evolução prática até o momento.
+
+---
 
 # 📖 Áreas de Estudo
 
@@ -48,6 +52,8 @@ Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e itali
 - <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
 - <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
 
+---
+
 # 📂 Repositórios de Estudo
 
 | Área | Repositório | Status |
@@ -61,6 +67,8 @@ Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e itali
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20px"> React | [estudos-react](https://github.com/NicollasRodrigo/estudos-react) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | [estudos-nodejs](https://github.com/NicollasRodrigo/estudos-nodejs) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL / MySQL | [estudos-sql](https://github.com/NicollasRodrigo/estudos-sql) | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
+
+---
 
 # 🛣️ Roadmap de Aprendizado
 
@@ -76,12 +84,16 @@ Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e itali
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px"> Node.js | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px"> SQL / MySQL | <img src="https://img.shields.io/badge/Planejado-6B7280?style=flat" alt="Planejado"> |
 
+---
+
 # 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="48%" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
   <img width="48%" src="./profile/top-langs.svg" alt="Principais linguagens"/>
 </p>
+
+---
 
 # 📁 Organização dos Repositórios
 
@@ -93,19 +105,28 @@ Mantenho uma organização simples e consistente para facilitar a navegação e 
 - 📂 Estrutura de pastas simples e fácil de navegar.
 - 📝 Anotações e materiais de apoio relacionados aos estudos.
 
+---
+
 # 📈 Evolução
 
 Este perfil é atualizado conforme avanço nos estudos e desenvolvo novos projetos. A proposta é registrar não apenas o que estou aprendendo, mas também como transformo esses conhecimentos em prática ao longo da minha formação.
 
+---
+
 # 🤝 Feedbacks
 
 Sugestões, boas práticas e feedbacks são bem-vindos e fazem parte do meu processo de evolução profissional.
+
+---
 
 # 📬 Contato
 
 - **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
 - **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
 - **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
+- **<img src="https://cdn.simpleicons.org/gmail/white" width="20px"> E-mail:** [nicollas.damatta@gmail.com](mailto:nicollas.damatta@gmail.com)
+
+---
 
 # 📄 Licença
 
