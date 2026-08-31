@@ -1,8 +1,8 @@
 # 📚 Jornada de Estudos | Nicollas Rodrigo
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo minha base em tecnologia por meio da graduação, estudos independentes e projetos práticos.
+Estou construindo minha base em Tecnologia da Informação por meio de estudos, projetos práticos e aprendizado contínuo.
 
-Meu objetivo é transformar conhecimento em prática, desenvolver uma base sólida em programação e conquistar minha primeira oportunidade na área de tecnologia.
+Atualmente, venho desenvolvendo conhecimentos em programação, desenvolvimento de sistemas, Python, JavaScript, Java, SQL, HTML, CSS e UI/UX Design, além de iniciar meus estudos em Inteligência Artificial e IA Generativa..
 
 ---
 
