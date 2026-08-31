@@ -2,7 +2,7 @@
 
 Estou construindo minha base em Tecnologia da Informação por meio de estudos, projetos práticos e aprendizado contínuo.
 
-Venho aprimorando meus conhecimentos em programação, desenvolvimento de sistemas, Python, JavaScript, Java, SQL, HTML, CSS e UI/UX Design, além de iniciar meus estudos em Inteligência Artificial e IA Generativa..
+Venho aprimorando meus conhecimentos em programação, desenvolvimento de sistemas, Python, JavaScript, SQL, HTML, CSS e UI/UX Design, além de iniciar meus estudos em Inteligência Artificial e IA Generativa..
 
 ---
 
