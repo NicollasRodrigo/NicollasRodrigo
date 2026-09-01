@@ -7,14 +7,14 @@ Venho aprimorando meus conhecimentos em programação e desenvolvimento de siste
 ---
 
 # 👨‍💻 Sobre Mim
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIPÊ e busco minha primeira oportunidade na área de Tecnologia. Desde o ensino médio, venho desenvolvendo meus conhecimentos por meio de cursos, estudos e projetos práticos, incluindo a Fábrica de Software da UNIPÊ.
+Tenho conhecimentos em HTML, CSS, JavaScript, Python e UI/UX Design e sigo buscando novos aprendizados.
+Também sou uma pessoa com TEA (nível 1 de suporte), característica que faz parte da minha trajetória e não limita meu potencial de aprendizado e desenvolvimento.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse em **desenvolvimento de software, desenvolvimento front-end e suporte técnico**.
+Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, que complementam minha formação e ampliam meu acesso a conteúdos técnicos.
 
-Atualmente, desenvolvo meus conhecimentos por meio da graduação, estudos independentes e projetos práticos, com foco em **HTML, CSS, JavaScript, Python e fundamentos de programação**.
+🚀 Meu objetivo é colocar meus conhecimentos em prática, adquirir experiência e crescer profissionalmente, com interesse em desenvolvimento de software e Inteligência Artificial.
 
-Busco minha **primeira oportunidade na área de tecnologia**, onde possa aplicar meus conhecimentos, contribuir com a equipe, adquirir experiência prática e evoluir continuamente como profissional.
-
-Possuo **inglês intermediário** e conhecimentos básicos de **espanhol e italiano**, que complementam minha formação e ampliam meu acesso a conteúdos técnicos.
 
 ---
 
