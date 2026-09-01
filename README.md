@@ -1,10 +1,10 @@
 # 📚 Jornada de Estudos | Nicollas Rodrigo
 
 Estou construindo minha base em Tecnologia da Informação por meio de estudos, projetos práticos e aprendizado contínuo.
-
 Venho desenvolvendo meus conhecimentos em programação e desenvolvimento de sistemas, com foco na criação de soluções alinhadas às necessidades do mercado de tecnologia.
 
-Tenho interesse em me especializar em desenvolvimento de software e Inteligência Artificial, buscando constantemente novos conhecimentos e oportunidades para colocar minhas habilidades em prática.
+Tenho interesse em desenvolvimento de software e Inteligência Artificial, buscando constantemente novos conhecimentos e oportunidades para colocar minhas habilidades em prática.
+
 ---
 
 # 👨‍💻 Sobre Mim
