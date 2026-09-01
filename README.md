@@ -14,7 +14,7 @@ Também sou uma pessoa com TEA (nível 1 de suporte), característica que faz pa
 
 Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, que complementam minha formação e ampliam meu acesso a conteúdos técnicos.
 
-🚀 Meu objetivo é colocar meus conhecimentos em prática, adquirir experiência e crescer profissionalmente, com interesse em desenvolvimento de software e Inteligência Artificial.
+
 
 
 ---
