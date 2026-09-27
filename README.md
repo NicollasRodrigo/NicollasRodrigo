@@ -120,7 +120,7 @@ Sugestões, boas práticas e feedbacks são bem-vindos e fazem parte do meu proc
 
 # 📬 Contato
 
-- **<img src="https://cdn.simpleicons.org/github/white" width="20px"> GitHub:** [NicollasRodrigo](https://github.com/NicollasRodrigo)
+
 - **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
 - **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
 - **<img src="https://cdn.simpleicons.org/gmail/white" width="20px"> E-mail:** [nicollas.damatta@gmail.com](mailto:nicollas.damatta@gmail.com)
