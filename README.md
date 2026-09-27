@@ -8,9 +8,7 @@ Tenho interesse em desenvolvimento de software e Inteligência Artificial, busca
 ---
 
 # 👨‍💻 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIPÊ e busco minha primeira oportunidade na área de Tecnologia. Desde o ensino médio, venho desenvolvendo meus conhecimentos por meio de cursos, estudos e projetos práticos, incluindo a Fábrica de Software da UNIPÊ.
-Tenho conhecimentos em HTML, CSS, JavaScript, Python e UI/UX Design e sigo buscando novos aprendizados.
-Também sou uma pessoa com TEA (nível 1 de suporte), característica que faz parte da minha trajetória e não limita meu potencial de aprendizado e desenvolvimento.
+Estudante de Análise e Desenvolvimento de Sistemas na UNIPÊ, em busca da primeira oportunidade na área de Tecnologia. Possuo experiência prática em desenvolvimento web e UI/UX por meio da Fábrica de Software da instituição, atuando na construção de aplicações e estruturação de interfaces. Minha base técnica inclui HTML, CSS, JavaScript e Python, além de inglês intermediário. Tenho um perfil analítico, focado na resolução de problemas e com forte atenção aos detalhes na entrega de resultados.
 
 Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, que complementam minha formação e ampliam meu acesso a conteúdos técnicos.
 
