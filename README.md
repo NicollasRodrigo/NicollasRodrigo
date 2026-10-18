@@ -12,15 +12,14 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNIPÊ, em busca da prime
 
 Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, que complementam minha formação e ampliam meu acesso a conteúdos técnicos.
 
-
-
-
 ---
 
 # 🚀 Projetos em Destaque
 
 | Projeto | Tecnologias | Objetivo |
 |---------|-------------|----------|
+| 💼 [Portfólio Grid com Bootstrap](https://github.com/NicollasRodrigo/estudos-css/tree/main/projetos/portfolio-grid-bootstrap) | HTML • CSS • JavaScript • Bootstrap | Prática de layout responsivo, Grid, navegação e tema claro/escuro. |
+| 📄 [Currículo Web](https://github.com/NicollasRodrigo/estudos-html/tree/main/projetos/curriculo-web) | HTML • CSS • JavaScript | Formulário de perfil com salvamento local, tema escuro e registro da última visita. |
 | 🎮 [Jogo da Memória](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria) | HTML • CSS • JavaScript | Prática de estrutura, estilização e lógica de interação. |
 | 🧮 [Calculator](https://github.com/NicollasRodrigo/calculator) | React • Vite • JavaScript | Prática de componentes, eventos e lógica de interface. |
 | ✅ [Quest Todo](https://github.com/NicollasRodrigo/Quest-Todo) | React • Vite • JavaScript | Prática de interfaces e organização de tarefas. |
@@ -98,11 +97,11 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 
 Mantenho uma organização simples e consistente para facilitar a navegação e acompanhar minha evolução.
 
-- 📄 `README.md` com descrição objetiva do conteúdo.
-- 📚 Estudos separados por aulas, exercícios e projetos.
-- 💻 Código organizado por tema ou funcionalidade.
-- 📂 Estrutura de pastas simples e fácil de navegar.
-- 📝 Anotações e materiais de apoio relacionados aos estudos.
+- README.md com descrição objetiva do conteúdo.
+- Estudos separados por aulas, exercícios e projetos.
+- Código organizado por tema ou funcionalidade.
+- Estrutura de pastas simples e fácil de navegar.
+- Anotações e materiais de apoio relacionados aos estudos.
 
 ---
 
@@ -120,18 +119,17 @@ Sugestões, boas práticas e feedbacks são bem-vindos e fazem parte do meu proc
 
 # 📬 Contato
 
-
-- **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
-- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
-- **<img src="https://cdn.simpleicons.org/gmail/white" width="20px"> E-mail:** [nicollas.damatta@gmail.com](mailto:nicollas.damatta@gmail.com)
+- **<img src="https://cdn.simpleicons.org/gitlab/white" width="20px"/> GitLab:** [NicollasRodrigo](https://gitlab.com/NicollasRodrigo)
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px"/> LinkedIn:** [Nicollas Rodrigo](https://www.linkedin.com/in/nicollas-rodrigo-251657423/)
+- **<img src="https://cdn.simpleicons.org/gmail/white" width="20px"/> E-mail:** [nicollas.damatta@gmail.com](mailto:nicollas.damatta@gmail.com)
 
 ---
 
 # 📄 Licença
 
-Este repositório está licenciado sob a **Licença MIT**.
+Este repositório está licenciado sob a Licença MIT.
 
-Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Consulte o arquivo LICENSE para mais informações.
 
 ---
 
