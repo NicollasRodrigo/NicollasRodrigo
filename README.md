@@ -18,6 +18,7 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 
 | Projeto | Tecnologias | Objetivo |
 |---------|-------------|----------|
+| 🌐 [Portal de Turismo de João Pessoa (projeto em grupo)](https://github.com/kevin-arruda-tech/landingpage-joaopessoa) | HTML • CSS • JavaScript • Bootstrap | Trabalho colaborativo; fiquei responsável pelo desenvolvimento do CSS e pela estilização da interface. |
 | 💼 [Portfólio Grid com Bootstrap](https://github.com/NicollasRodrigo/estudos-css/tree/main/projetos/portfolio-grid-bootstrap) | HTML • CSS • JavaScript • Bootstrap | Prática de layout responsivo, Grid, navegação e tema claro/escuro. |
 | 📄 [Currículo Web](https://github.com/NicollasRodrigo/estudos-html/tree/main/projetos/curriculo-web) | HTML • CSS • JavaScript | Formulário de perfil com salvamento local, tema escuro e registro da última visita. |
 | 🎮 [Jogo da Memória](https://github.com/NicollasRodrigo/Jogo-da-Mem-ria) | HTML • CSS • JavaScript | Prática de estrutura, estilização e lógica de interação. |
