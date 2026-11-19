@@ -18,7 +18,6 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 
 | Projeto | Tecnologias | Objetivo |
 |---------|-------------|----------|
-| 🏦 [Visão do Banco](https://github.com/NicollasRodrigo/estudo-logica-programacao/tree/main/projetos/VisaoDoBanco) | C • Structs • Ponteiros • Memória dinâmica | Simulação de carteira digital com cadastro de clientes, contas, movimentações, empréstimos, títulos de capitalização e sorteio. |
 | 🌐 [Portal de Turismo de João Pessoa (projeto em grupo)](https://github.com/kevin-arruda-tech/landingpage-joaopessoa) | HTML • CSS • JavaScript • Bootstrap | Trabalho colaborativo; fiquei responsável pelo desenvolvimento do CSS e pela estilização da interface. |
 | 💼 [Portfólio Grid com Bootstrap](https://github.com/NicollasRodrigo/estudos-css/tree/main/projetos/portfolio-grid-bootstrap) | HTML • CSS • JavaScript • Bootstrap | Prática de layout responsivo, Grid, navegação e tema claro/escuro. |
 | 📄 [Currículo Web](https://github.com/NicollasRodrigo/estudos-html/tree/main/projetos/curriculo-web) | HTML • CSS • JavaScript | Formulário de perfil com salvamento local, tema escuro e registro da última visita. |
@@ -27,6 +26,7 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 | ✅ [Quest Todo](https://github.com/NicollasRodrigo/Quest-Todo) | React • Vite • JavaScript | Prática de interfaces e organização de tarefas. |
 | 💼 [Portfólio](https://github.com/NicollasRodrigo/portfolio_atualizado) | React • Tailwind CSS | Apresentação de projetos, conhecimentos e informações profissionais. |
 
+| 🏦 [Visão do Banco](https://github.com/NicollasRodrigo/estudo-logica-programacao/tree/main/projetos/VisaoDoBanco) | C • Structs • Ponteiros • Alocação dinâmica | Cadastro de clientes, operações bancárias, empréstimos, histórico e sorteio. |
 > 📌 Estes são os projetos que melhor representam minha evolução prática até o momento.
 
 ---
