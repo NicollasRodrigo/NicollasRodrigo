@@ -48,7 +48,6 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 - <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
 - <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
 - <img alt="React" title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> React
-- <img alt="Node.js" title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> Node.js
 - <img alt="MySQL" title="MySQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MySQL
 
 ---
