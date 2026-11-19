@@ -25,7 +25,6 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 | 🧮 [Calculator](https://github.com/NicollasRodrigo/calculator) | React • Vite • JavaScript | Prática de componentes, eventos e lógica de interface. |
 | ✅ [Quest Todo](https://github.com/NicollasRodrigo/Quest-Todo) | React • Vite • JavaScript | Prática de interfaces e organização de tarefas. |
 | 💼 [Portfólio](https://github.com/NicollasRodrigo/portfolio_atualizado) | React • Tailwind CSS | Apresentação de projetos, conhecimentos e informações profissionais. |
-
 | 🏦 [Visão do Banco](https://github.com/NicollasRodrigo/estudo-logica-programacao/tree/main/projetos/VisaoDoBanco) | C • Structs • Ponteiros • Alocação dinâmica | Cadastro de clientes, operações bancárias, empréstimos, histórico e sorteio. |
 > 📌 Estes são os projetos que melhor representam minha evolução prática até o momento.
 
