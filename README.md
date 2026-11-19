@@ -43,7 +43,7 @@ Possuo inglês intermediário e conhecimentos básicos de espanhol e italiano, q
 
 **Lógica de Programação** — fundamentos de raciocínio lógico, algoritmos e resolução de problemas.
 
-## 🚀 Próximos estudos
+## 📚 Outras tecnologias com repositórios de estudo
 
 - <img alt="Git" title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> Git
 - <img alt="GitHub" title="GitHub" width="25px" src="https://cdn.simpleicons.org/github/white"/> GitHub
